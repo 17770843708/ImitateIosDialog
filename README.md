@@ -5,11 +5,13 @@
 
 # Gradle
 ![Image text](https://github.com/17770843708/ImitateIosDialog/blob/master/20180319110549.png)
-`allprojects {
+```
+allprojects {
     repositories {
         ...
         maven { url 'https://jitpack.io' }
     }
-}`
+}
+```
 
 # Usage
