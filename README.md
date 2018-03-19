@@ -13,5 +13,11 @@ allprojects {
     }
 }
 ```
+```
+dependencies {
+    ...
+    compile 'com.github.17770843708:ImitateIosDialog:V1.0'
+}
+```
 
 # Usage
